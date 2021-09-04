@@ -16,6 +16,9 @@ nuke 12 supports python 2, and nuke 13 supports python 3
 <br>
 <br>
 
+![image](https://user-images.githubusercontent.com/65713157/132109566-a343bfa3-d860-412d-a53e-7789bc081bd5.png)
+
+
 https://www.youtube.com/watch?v=mADEtHwTTSA&ab_channel=THARUNGANAPATHI
 <br>
 In this above link, I have explained how to set seperate .nuke folders for nuke 12 and nuke 13.
